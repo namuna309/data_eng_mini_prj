@@ -11,8 +11,8 @@
 
 ## 데이터 추출 자동화
 ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://user-images.githubusercontent.com/68600766/233847696-a27d2bae-5f60-4def-930f-a4fe72cc43bb.gif)
-![제목 없는 동영상 - Clipchamp로 제작](https://user-images.githubusercontent.com/68600766/233847738-ea51bd84-12ab-4f4c-8ead-6b5752784d07.gif)
 ![제목 없는 동영상 - Clipchamp로 제작 (2)](https://user-images.githubusercontent.com/68600766/233848148-89a83e8c-e78e-4b1e-8598-1b7486ff921d.gif)
+![제목 없는 동영상 - Clipchamp로 제작](https://user-images.githubusercontent.com/68600766/233847738-ea51bd84-12ab-4f4c-8ead-6b5752784d07.gif)
 
 ## 데이터 시각화
 ![화면 캡처 2023-04-23 234506](https://user-images.githubusercontent.com/68600766/233847870-f80b6221-0e0c-4a42-bf3d-f3f33c5dbd3d.png)
